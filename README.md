@@ -3,4 +3,4 @@ drag and drop injector folder to vrchat directory
 make sure to exclude the injector itself or anti virus would prevent it to inject 
 then make a modules folder in vrchat directory to get client loading you dont have to rename the dll test.dll btw 
 if it turns red you can download windows vs studio and in visual studio installer click modify  download the c++ components 
-kernal injector by skegboo btw credits for injector 
+kernal injector by skegdoo btw credits for injector 
