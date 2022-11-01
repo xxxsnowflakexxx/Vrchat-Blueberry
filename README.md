@@ -1,5 +1,6 @@
 # vrchat-Client
-clients provided are not obfuscated as well. made this client for meme but fully free 
+client provided in release not obfuscated as well. made this client for meme but fully free and being worked on!
+Decide to provide it for free since other devs charging BE4v
 working on adding more features this my first time working on client :)
 so enjoy client 
 drag and drop injector folder to vrchat directory 
