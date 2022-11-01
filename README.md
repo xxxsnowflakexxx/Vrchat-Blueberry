@@ -9,3 +9,5 @@ if it turns red you can download windows vs studio and in visual studio installe
 kernal injector by skegdoo btw credits for injector.
 When Prompt type in  UnityWndClass
 Any issues with client its on you 
+
+Face Injector provided from https://github.com/notunixian/face-injector-v2
