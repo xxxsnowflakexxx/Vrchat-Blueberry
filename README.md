@@ -1,4 +1,4 @@
-# vrchat-stuff
+# vrchat-Client
 clients provided are not obfuscated as well. made this client for meme but fully free 
 working on adding more features this my first time working on client :)
 so enjoy client 
@@ -8,3 +8,4 @@ then make a modules folder in vrchat directory to get client loading you dont ha
 if it turns red you can download windows vs studio and in visual studio installer click modify  download the c++ components 
 kernal injector by skegdoo btw credits for injector.
 When Prompt type in  UnityWndClass
+Any issues with client its on you 
